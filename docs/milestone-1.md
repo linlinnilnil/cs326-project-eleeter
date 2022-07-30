@@ -14,22 +14,22 @@ UMass To-Do Organizer will allow students to track and list their daily, weekly,
 ## Functionality
 The To-Do Oragnizer will all users to set goals/tasks that they would like to do, keeping track of various parts of the task and estimated goal of time. Ideally the data of this web applications would be able to handle
 
-Daily Goal Setter:
-    Dates
-    Times - Unix timestamps
-    Ideal Location -  string, if on campus maybe have a dropdown list
-    Task details - string
-    Completion - Daily goals could range from true or false, or it would contribute to a portion of completion on a overall weekly or monthly task
+* Daily Goal Setter:
+    * Dates
+    * Times - Unix timestamps
+    * Ideal Location -  string, if on campus maybe have a dropdown list
+    * Task details - string
+    * Completion - Daily goals could range from true or false, or it would contribute to a portion of completion on a overall weekly or monthly task
 
-Monthly/Weekly Goal Setter:
-    Ideal completetion date 
-    Task Details
-    Maybe a drop down or list of daily goals that contribute to this weekly goal - Link the daily goal details.
+* Monthly/Weekly Goal Setter:
+    * Ideal completetion date 
+    * Task Details
+    * Maybe a drop down or list of daily goals that contribute to this weekly goal
+    * Link the daily goal details.
 
-Continuous Use Data:
-    Form of daily checkin that helps retain application users that use the same computer- via local storage?
+* Continuous Use Data:
+    * Form of daily checkin that helps retain application users that use the same computer- via local storage?
 
-Other forms of data that will potentially be used:
-    Mood of the previous day, giving users a better idea if they need to adjust schedules
-
-    Professors / Classes / Grades
+* Other forms of data that will potentially be used:
+    * Mood of the previous day, giving users a better idea if they need to adjust schedules
+    * Professors / Classes / Grades
